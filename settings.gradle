@@ -1,0 +1,3 @@
+include ':imageSlideShow'
+include ':app'
+rootProject.name = "Carousel ImageSlider"
